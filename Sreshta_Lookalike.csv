@@ -1,0 +1,568 @@
+CustomerID,Category,purchase_count
+C0001,Books,2
+C0001,Electronics,7
+C0001,Home Decor,3
+C0002,Clothing,4
+C0002,Home Decor,6
+C0003,Clothing,4
+C0003,Electronics,4
+C0003,Home Decor,6
+C0004,Books,8
+C0004,Electronics,6
+C0004,Home Decor,9
+C0005,Electronics,4
+C0005,Home Decor,3
+C0006,Books,5
+C0006,Clothing,4
+C0006,Home Decor,3
+C0007,Electronics,4
+C0007,Home Decor,4
+C0008,Books,1
+C0008,Clothing,8
+C0008,Electronics,5
+C0008,Home Decor,6
+C0009,Clothing,2
+C0009,Electronics,1
+C0010,Books,2
+C0010,Clothing,10
+C0011,Books,6
+C0011,Clothing,4
+C0011,Electronics,3
+C0012,Books,5
+C0012,Electronics,4
+C0012,Home Decor,10
+C0013,Books,4
+C0013,Clothing,8
+C0013,Electronics,6
+C0014,Home Decor,2
+C0015,Books,1
+C0015,Home Decor,3
+C0016,Books,4
+C0016,Clothing,4
+C0016,Electronics,2
+C0017,Books,9
+C0017,Clothing,1
+C0017,Electronics,6
+C0017,Home Decor,5
+C0018,Books,7
+C0018,Electronics,8
+C0018,Home Decor,3
+C0019,Books,7
+C0019,Electronics,4
+C0020,Electronics,3
+C0021,Books,8
+C0021,Clothing,3
+C0021,Electronics,5
+C0021,Home Decor,1
+C0022,Books,2
+C0022,Clothing,10
+C0022,Electronics,2
+C0022,Home Decor,1
+C0023,Books,4
+C0023,Electronics,10
+C0024,Books,6
+C0024,Clothing,4
+C0024,Electronics,1
+C0024,Home Decor,3
+C0025,Books,2
+C0025,Clothing,1
+C0025,Home Decor,5
+C0026,Clothing,1
+C0026,Electronics,8
+C0026,Home Decor,3
+C0027,Books,6
+C0027,Clothing,4
+C0027,Electronics,2
+C0028,Books,6
+C0028,Clothing,5
+C0028,Electronics,10
+C0028,Home Decor,3
+C0029,Books,2
+C0029,Clothing,4
+C0029,Electronics,4
+C0030,Books,3
+C0030,Clothing,7
+C0030,Home Decor,3
+C0031,Clothing,4
+C0031,Electronics,2
+C0031,Home Decor,4
+C0032,Books,1
+C0032,Clothing,3
+C0032,Electronics,1
+C0033,Clothing,2
+C0034,Books,4
+C0034,Clothing,9
+C0034,Electronics,4
+C0035,Books,3
+C0035,Electronics,4
+C0035,Home Decor,3
+C0036,Books,2
+C0036,Clothing,3
+C0036,Home Decor,3
+C0037,Books,7
+C0037,Home Decor,7
+C0038,Books,6
+C0038,Home Decor,7
+C0039,Books,3
+C0039,Clothing,4
+C0039,Electronics,4
+C0039,Home Decor,7
+C0040,Clothing,8
+C0040,Electronics,2
+C0041,Books,9
+C0041,Clothing,4
+C0041,Electronics,3
+C0041,Home Decor,7
+C0042,Books,1
+C0042,Clothing,5
+C0043,Books,2
+C0043,Clothing,2
+C0043,Home Decor,2
+C0044,Books,2
+C0044,Clothing,4
+C0044,Electronics,1
+C0045,Books,2
+C0045,Clothing,3
+C0045,Electronics,14
+C0045,Home Decor,4
+C0046,Books,5
+C0046,Clothing,7
+C0046,Electronics,2
+C0046,Home Decor,5
+C0047,Books,6
+C0047,Electronics,3
+C0047,Home Decor,4
+C0048,Books,4
+C0048,Clothing,2
+C0048,Electronics,3
+C0048,Home Decor,3
+C0049,Books,2
+C0049,Clothing,5
+C0049,Electronics,10
+C0050,Books,2
+C0050,Electronics,6
+C0051,Books,4
+C0051,Clothing,1
+C0051,Electronics,8
+C0051,Home Decor,3
+C0052,Books,3
+C0052,Home Decor,7
+C0053,Books,4
+C0053,Clothing,6
+C0053,Electronics,4
+C0053,Home Decor,4
+C0054,Books,3
+C0054,Clothing,6
+C0054,Electronics,8
+C0054,Home Decor,7
+C0055,Books,2
+C0055,Clothing,2
+C0055,Electronics,4
+C0055,Home Decor,4
+C0056,Books,2
+C0056,Clothing,8
+C0056,Electronics,2
+C0057,Books,6
+C0057,Clothing,3
+C0057,Electronics,4
+C0057,Home Decor,3
+C0058,Clothing,1
+C0059,Books,1
+C0059,Clothing,4
+C0059,Electronics,4
+C0059,Home Decor,12
+C0060,Home Decor,2
+C0061,Books,3
+C0061,Clothing,3
+C0062,Clothing,5
+C0062,Home Decor,3
+C0063,Books,5
+C0064,Books,6
+C0064,Electronics,4
+C0064,Home Decor,3
+C0065,Books,9
+C0065,Electronics,4
+C0065,Home Decor,14
+C0066,Clothing,2
+C0066,Electronics,7
+C0067,Books,1
+C0067,Clothing,4
+C0067,Electronics,6
+C0067,Home Decor,3
+C0068,Books,10
+C0068,Electronics,12
+C0069,Electronics,9
+C0069,Home Decor,1
+C0070,Books,9
+C0070,Electronics,3
+C0071,Books,3
+C0071,Home Decor,4
+C0072,Clothing,6
+C0072,Electronics,7
+C0073,Books,6
+C0073,Home Decor,4
+C0074,Books,4
+C0074,Clothing,3
+C0074,Electronics,1
+C0075,Books,10
+C0075,Clothing,3
+C0075,Electronics,7
+C0075,Home Decor,8
+C0076,Books,3
+C0076,Clothing,1
+C0076,Home Decor,7
+C0077,Books,1
+C0077,Clothing,6
+C0078,Books,2
+C0079,Books,2
+C0079,Clothing,4
+C0079,Home Decor,6
+C0080,Home Decor,3
+C0081,Books,4
+C0081,Clothing,4
+C0081,Electronics,1
+C0081,Home Decor,5
+C0082,Books,9
+C0082,Clothing,8
+C0082,Electronics,2
+C0082,Home Decor,4
+C0083,Books,2
+C0083,Clothing,2
+C0084,Books,3
+C0084,Clothing,4
+C0084,Electronics,13
+C0085,Books,1
+C0085,Electronics,3
+C0085,Home Decor,3
+C0086,Books,4
+C0086,Clothing,2
+C0086,Electronics,2
+C0086,Home Decor,5
+C0087,Books,9
+C0087,Clothing,3
+C0087,Electronics,10
+C0088,Books,1
+C0088,Clothing,5
+C0088,Electronics,4
+C0089,Home Decor,7
+C0090,Books,4
+C0090,Clothing,3
+C0090,Electronics,4
+C0090,Home Decor,5
+C0091,Clothing,4
+C0091,Electronics,12
+C0091,Home Decor,4
+C0092,Clothing,7
+C0092,Electronics,3
+C0093,Books,1
+C0093,Clothing,10
+C0093,Electronics,4
+C0093,Home Decor,4
+C0094,Books,3
+C0094,Clothing,3
+C0094,Electronics,3
+C0095,Electronics,2
+C0095,Home Decor,3
+C0096,Clothing,4
+C0096,Electronics,8
+C0096,Home Decor,4
+C0097,Home Decor,1
+C0098,Books,4
+C0098,Clothing,5
+C0098,Electronics,3
+C0098,Home Decor,2
+C0099,Books,7
+C0099,Clothing,10
+C0099,Electronics,4
+C0100,Books,1
+C0100,Clothing,3
+C0100,Electronics,4
+C0100,Home Decor,6
+C0101,Books,8
+C0101,Clothing,5
+C0101,Electronics,7
+C0102,Books,8
+C0102,Clothing,3
+C0102,Electronics,9
+C0102,Home Decor,1
+C0103,Books,2
+C0103,Clothing,2
+C0103,Home Decor,3
+C0104,Books,2
+C0104,Clothing,4
+C0104,Electronics,4
+C0104,Home Decor,11
+C0105,Books,2
+C0105,Clothing,5
+C0105,Electronics,9
+C0106,Clothing,7
+C0106,Electronics,2
+C0106,Home Decor,4
+C0107,Books,4
+C0107,Clothing,6
+C0107,Electronics,2
+C0108,Books,5
+C0108,Clothing,5
+C0108,Home Decor,6
+C0109,Books,7
+C0109,Clothing,15
+C0109,Electronics,3
+C0109,Home Decor,7
+C0110,Home Decor,4
+C0111,Books,3
+C0111,Clothing,8
+C0111,Electronics,4
+C0111,Home Decor,1
+C0112,Books,4
+C0112,Electronics,4
+C0113,Books,4
+C0113,Clothing,1
+C0113,Electronics,7
+C0113,Home Decor,10
+C0114,Books,4
+C0114,Clothing,3
+C0114,Electronics,7
+C0114,Home Decor,4
+C0115,Books,4
+C0115,Electronics,4
+C0116,Books,2
+C0116,Clothing,1
+C0116,Electronics,2
+C0116,Home Decor,6
+C0117,Books,4
+C0117,Clothing,4
+C0117,Electronics,3
+C0117,Home Decor,1
+C0118,Books,5
+C0118,Clothing,1
+C0118,Electronics,2
+C0118,Home Decor,2
+C0119,Books,2
+C0119,Electronics,2
+C0119,Home Decor,2
+C0120,Electronics,9
+C0121,Books,4
+C0121,Electronics,1
+C0121,Home Decor,3
+C0122,Books,5
+C0122,Clothing,2
+C0122,Electronics,6
+C0122,Home Decor,4
+C0123,Books,1
+C0123,Home Decor,3
+C0124,Books,6
+C0124,Clothing,3
+C0124,Home Decor,10
+C0125,Books,5
+C0125,Electronics,5
+C0126,Books,10
+C0126,Clothing,1
+C0126,Electronics,2
+C0127,Books,1
+C0127,Electronics,5
+C0127,Home Decor,5
+C0128,Home Decor,3
+C0129,Clothing,4
+C0129,Electronics,3
+C0129,Home Decor,2
+C0130,Electronics,2
+C0131,Books,4
+C0131,Home Decor,3
+C0132,Books,6
+C0132,Clothing,2
+C0133,Clothing,5
+C0133,Home Decor,6
+C0134,Clothing,9
+C0134,Home Decor,7
+C0135,Books,4
+C0135,Clothing,4
+C0135,Home Decor,2
+C0136,Books,7
+C0136,Home Decor,14
+C0137,Books,8
+C0137,Home Decor,3
+C0138,Books,4
+C0138,Clothing,4
+C0138,Home Decor,9
+C0139,Books,9
+C0139,Clothing,1
+C0139,Home Decor,3
+C0140,Electronics,4
+C0140,Home Decor,1
+C0141,Books,8
+C0141,Clothing,10
+C0141,Electronics,7
+C0141,Home Decor,2
+C0142,Books,8
+C0142,Clothing,3
+C0143,Books,1
+C0143,Clothing,11
+C0143,Electronics,3
+C0143,Home Decor,6
+C0144,Clothing,4
+C0144,Home Decor,4
+C0145,Books,2
+C0145,Clothing,10
+C0145,Electronics,2
+C0145,Home Decor,6
+C0146,Books,3
+C0146,Electronics,2
+C0146,Home Decor,3
+C0147,Books,5
+C0147,Clothing,2
+C0147,Electronics,3
+C0147,Home Decor,4
+C0148,Books,4
+C0148,Electronics,6
+C0148,Home Decor,8
+C0149,Clothing,6
+C0149,Electronics,5
+C0149,Home Decor,4
+C0150,Clothing,2
+C0151,Home Decor,4
+C0152,Books,1
+C0152,Electronics,3
+C0152,Home Decor,6
+C0153,Books,12
+C0153,Clothing,5
+C0154,Books,3
+C0154,Clothing,1
+C0154,Electronics,4
+C0154,Home Decor,3
+C0155,Books,8
+C0155,Clothing,2
+C0155,Electronics,7
+C0156,Books,8
+C0156,Clothing,11
+C0156,Electronics,9
+C0157,Books,1
+C0157,Electronics,6
+C0157,Home Decor,3
+C0158,Clothing,4
+C0158,Electronics,1
+C0158,Home Decor,4
+C0159,Clothing,3
+C0159,Home Decor,5
+C0160,Books,5
+C0160,Home Decor,9
+C0161,Books,5
+C0161,Clothing,4
+C0161,Electronics,4
+C0161,Home Decor,1
+C0162,Books,1
+C0162,Clothing,4
+C0162,Electronics,8
+C0162,Home Decor,7
+C0163,Electronics,8
+C0163,Home Decor,11
+C0164,Books,1
+C0164,Clothing,2
+C0164,Electronics,2
+C0164,Home Decor,5
+C0165,Books,12
+C0165,Clothing,15
+C0165,Electronics,3
+C0166,Clothing,1
+C0166,Electronics,3
+C0166,Home Decor,7
+C0167,Books,3
+C0167,Clothing,2
+C0167,Home Decor,3
+C0168,Books,5
+C0168,Electronics,7
+C0169,Books,6
+C0169,Clothing,6
+C0169,Electronics,4
+C0169,Home Decor,4
+C0170,Books,1
+C0170,Clothing,4
+C0170,Electronics,4
+C0170,Home Decor,6
+C0171,Books,15
+C0172,Books,2
+C0172,Electronics,1
+C0172,Home Decor,7
+C0173,Books,3
+C0173,Clothing,7
+C0173,Electronics,3
+C0173,Home Decor,7
+C0174,Books,9
+C0174,Electronics,2
+C0174,Home Decor,1
+C0175,Books,6
+C0175,Clothing,7
+C0175,Electronics,6
+C0175,Home Decor,7
+C0176,Books,4
+C0176,Clothing,8
+C0177,Books,5
+C0177,Electronics,2
+C0177,Home Decor,2
+C0178,Books,1
+C0178,Clothing,3
+C0178,Home Decor,5
+C0179,Books,3
+C0179,Clothing,1
+C0179,Electronics,4
+C0179,Home Decor,6
+C0181,Books,3
+C0181,Clothing,1
+C0181,Electronics,5
+C0181,Home Decor,6
+C0182,Books,4
+C0182,Clothing,4
+C0182,Electronics,1
+C0182,Home Decor,8
+C0183,Books,2
+C0183,Clothing,3
+C0183,Electronics,7
+C0184,Books,3
+C0184,Clothing,2
+C0184,Electronics,5
+C0184,Home Decor,1
+C0185,Books,3
+C0185,Clothing,3
+C0185,Home Decor,3
+C0186,Books,4
+C0186,Electronics,3
+C0187,Books,7
+C0187,Clothing,1
+C0187,Home Decor,3
+C0188,Books,7
+C0188,Clothing,6
+C0188,Electronics,5
+C0188,Home Decor,3
+C0189,Books,3
+C0189,Clothing,3
+C0189,Electronics,1
+C0189,Home Decor,4
+C0190,Books,4
+C0190,Clothing,4
+C0190,Electronics,5
+C0190,Home Decor,1
+C0191,Books,9
+C0191,Electronics,2
+C0192,Books,3
+C0192,Clothing,1
+C0192,Electronics,4
+C0193,Books,11
+C0194,Books,3
+C0194,Clothing,3
+C0194,Electronics,4
+C0194,Home Decor,4
+C0195,Clothing,5
+C0195,Electronics,3
+C0195,Home Decor,9
+C0196,Books,3
+C0196,Clothing,4
+C0196,Home Decor,5
+C0197,Electronics,6
+C0197,Home Decor,3
+C0198,Clothing,2
+C0198,Electronics,1
+C0199,Electronics,3
+C0199,Home Decor,6
+C0200,Books,4
+C0200,Clothing,7
+C0200,Electronics,1
+C0200,Home Decor,4
